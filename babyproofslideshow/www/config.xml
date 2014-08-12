@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>HelloWorld</name>
+    <name>Baby Proof Slideshow</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Distract a baby with your photos, lulling him or her into a zombie state on the verge of sleep by disabling phone buttons.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="dylan@sngm.me" href="http://www.sngm.me">
+        Sungem
     </author>
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.5.0" />
